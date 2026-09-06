@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 5/9/26
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -47,8 +47,13 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1917" height="808" alt="image" src="https://github.com/user-attachments/assets/ef2684cd-c537-4609-a135-680dde509c4d" />
+<img width="1917" height="802" alt="image" src="https://github.com/user-attachments/assets/13f7114e-cdd8-48eb-bfd4-42a61d069bf3" />
+<img width="1917" height="811" alt="image" src="https://github.com/user-attachments/assets/8f790d41-71fc-4f8b-9f26-a6e4066c6daf" />
+
+
+### Name: R Tharun Rathish
+### Register Number: 212225230284
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
