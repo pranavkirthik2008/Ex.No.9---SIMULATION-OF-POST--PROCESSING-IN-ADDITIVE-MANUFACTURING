@@ -52,8 +52,8 @@
 <img width="1917" height="811" alt="image" src="https://github.com/user-attachments/assets/8f790d41-71fc-4f8b-9f26-a6e4066c6daf" />
 
 
-### Name: R Tharun Rathish
-### Register Number: 212225230284
+### Name: PRANAV KIRTHIK S S
+### Register Number: 212225230212
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
